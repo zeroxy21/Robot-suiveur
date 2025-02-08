@@ -1,4 +1,3 @@
-Il s'agit d'un projet que j'ai realisé avec trois autres personnes comme premier projet personnel en ecole d'ingenieur .
-on a utilisé deux moteurs continus à l'avant pour diriger le robot ainsi qu'une carte arduino et d'un motor driver pour gerer la distribution de puissance .
-Pour troisieme roue on a utilisé une roue mobile ainsi que deux capteurs(noir blanc) à l'avant pour diriger le robot.
-voici une video de demonstration :https://youtube.com/shorts/S79wgQxwMiU?si=9EQF6BoJclCr9fTs
+Il s'agit d'un projet que j'ai realisé avec trois autres personnes comme premier projet personnel en ecole d'ingenieur avec des camarades de Ares( le club de robotique de mon ecole ) .
+ici nous avons realisé en tant qu'etudiants de premiere annee un PAMI pour la coupe de france de robotique 2025 qui assistera le robot principal fais par d'autres memebres de l'equiê.
+Comme, composant nous avons une stm32 , deux moteurs continu et un capteur a qutre sorties analogique ainsi qu'un PCB qu'on a realisé nous même comme shield et ainsi qu'une batterie . D'autres robots serons realisés mais pour l'instant voici une demo du resultat .(j'ai grandement partici^pé a la realistation du code sur ce projet).https://youtu.be/HASW5OjC5h0?feature=shared
